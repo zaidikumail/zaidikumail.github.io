@@ -6,10 +6,10 @@ subtitle: Argonne National Laboratory · CPAC Group
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: kumail_linkedIn.png
   image_circular: false
   more_info: >
-    <p>Your Department</p>
+    <p>PhD Defense Day</p>
     <p>Tufts University</p>
 
 selected_papers: true
