@@ -1,4 +1,9 @@
 - date: 2026-06-01
+  title: "OpenSkAI 2026"
+  type: "Talk"
+  location: "Chicago, Illinois"
+
+- date: 2026-06-01
   title: "EAS annual meeting"
   type: "Talk"
   location: "Lausanne, Switzerland"
@@ -54,7 +59,3 @@
 - date: 2024-01-01
   title: "AAS 243 Winter Meeting"
   location: "New Orleans, Louisiana"
-
-- date: 2023-06-01
-  title: "First Light Conference"
-  location: "MIT, Cambridge MA"
