@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Tufts University (Marchesini Lab) · ArgonneCPAC
+subtitle: Argonne National Laboratory · CPAC Group
 
 profile:
   align: right
@@ -22,6 +22,4 @@ latest_posts:
   enabled: false
 ---
 
-I'm a researcher in observational and computational astrophysics, working on differentiable, population-level forward modeling of galaxy photometry using JAX-based frameworks (diffsky, diffhtwo, diffmah, diffstar).
-
-I'm affiliated with Tufts University (Marchesini Lab), with collaborative ties at Argonne National Laboratory.
+I'm a postdoctoral researcher in observational and computational astrophysics, working on differentiable, population-level forward modeling of galaxy photometry using JAX-based frameworks (diffsky, diffhtwo, diffmah, diffstar).
