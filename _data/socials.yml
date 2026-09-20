@@ -1,6 +1,6 @@
 # Social links shown on the site, in order.
-cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF (add your own file here)
-email: you@example.com # your email address
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
-github_username: yourusername
+cv_pdf: /assets/pdf/Kumail_Zaidi_CV.pdf # path to your CV PDF (add your own file here)
+email: kzaidi@anl.gov # your email address
+scholar_userid: https://scholar.google.com/citations?user=vBqBTmoAAAAJ&hl=en# your Google Scholar ID
+orcid_id: 0000-0002-1163-7790# your ORCID ID
+github_username: zaidikumail
