@@ -1,17 +1,60 @@
-- title: "Differentiable galaxy population modeling"
-  type: "Invited talk"
-  venue: "AAS Meeting"
-  location: "Seattle, WA"
-  date: 2024-06-01
+- date: 2026-06-01
+  title: "EAS annual meeting"
+  type: "Talk"
+  location: "Lausanne, Switzerland"
+  note: "attended remotely"
 
-- title: "JAX-based forward modeling of galaxy photometry"
-  type: "Contributed talk"
-  venue: "Tufts Astrophysics Seminar"
-  location: "Medford, MA"
-  date: 2023-11-15
+- date: 2025-04-01
+  title: "My PhD Defense"
+  location: "Tufts University, Boston area"
+  url: "https://youtu.be/_MfOnMgBysQ?si=Gn0OYGsggRh_N0Cn"
 
-- title: "diffsky: population-level galaxy modeling"
+- date: 2025-04-01
+  title: "First Galaxies Meeting"
+  location: "Oxford, UK"
+  note: "could not attend due to personal reasons"
+
+- date: 2025-01-01
+  title: "AAS 245 Winter Meeting"
+  type: "Dissertation Talk"
+  location: "National Harbor, MD"
+
+- date: 2024-11-01
+  title: "STScI Galaxy Journal Club"
+  type: "Talk"
+  location: "Baltimore, MD"
+
+- date: 2024-07-01
+  title: "EAS annual meeting"
   type: "Poster"
-  venue: "Argonne CPAC Workshop"
-  location: "Lemont, IL"
-  date: 2023-04-02
+  location: "Padova, Italy"
+
+- date: 2024-05-01
+  title: "First Stars VII"
+  type: "Contributed Talk"
+  location: "Flatiron Institute, NYC"
+  url: "https://events.simonsfoundation.org/event/2102b8e2-a6a7-4bd2-b9b8-d41bb73c72b1/websitePage:5849ec81-d030-4248-b300-3290be94dbdf"
+
+- date: 2024-05-01
+  title: "Survey Science Discussion"
+  location: "Princeton University, NJ"
+
+- date: 2024-04-01
+  title: "Tufts Astronomy Seminar"
+  location: "Tufts University, Boston area"
+
+- date: 2024-01-01
+  title: "Pizza Lunch Talk"
+  location: "Columbia University, NYC"
+
+- date: 2024-01-01
+  title: "Galaxy Formation Seminar"
+  location: "Flatiron Institute, NYC"
+
+- date: 2024-01-01
+  title: "AAS 243 Winter Meeting"
+  location: "New Orleans, Louisiana"
+
+- date: 2023-06-01
+  title: "First Light Conference"
+  location: "MIT, Cambridge MA"
