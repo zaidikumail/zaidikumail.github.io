@@ -13,6 +13,8 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<p>Full list also available on my <a href="https://ui.adsabs.harvard.edu/user/libraries/ygk5qfqfQ-On8wCMI7qRuA" target="_blank">NASA ADS library</a>.</p>
+
 <div class="publications">
 
 {% bibliography %}
