@@ -9,8 +9,8 @@ profile:
   image: kumail_linkedIn.png
   image_circular: false
   more_info: >
-    <p>Astrophysics PhD</p>
-    <p>Tufts University</p>
+    <p>      Astrophysics PhD</p>
+    <p>      Tufts University</p>
 
 selected_papers: true
 social: true
