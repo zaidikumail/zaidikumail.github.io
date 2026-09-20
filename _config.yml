@@ -209,6 +209,8 @@ collections:
     output: true
   teachings:
     output: true
+  talks:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -711,8 +713,3 @@ jsonresume:
   - languages
   - interests
   - references
-
-collections:
-  talks:
-    output: true
-    permalink: /talks/:path/
