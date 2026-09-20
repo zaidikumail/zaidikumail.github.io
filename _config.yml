@@ -711,3 +711,8 @@ jsonresume:
   - languages
   - interests
   - references
+
+collections:
+  talks:
+    output: true
+    permalink: /talks/:path/
