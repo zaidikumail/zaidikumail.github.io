@@ -1,11 +1,11 @@
 - date: 2026-09-01
   title: "OpenSkAI 2026"
-  type: "Talk"
+  type: "Contributed Talk"
   location: "Chicago, Illinois"
 
 - date: 2026-06-01
   title: "EAS annual meeting"
-  type: "Talk"
+  type: "Contributed Talk"
   location: "Lausanne, Switzerland"
   note: "attended remotely"
 
@@ -23,11 +23,6 @@
   title: "STScI Galaxy Journal Club"
   type: "Talk"
   location: "Baltimore, MD"
-
-- date: 2024-07-01
-  title: "EAS annual meeting"
-  type: "Poster"
-  location: "Padova, Italy"
 
 - date: 2024-05-01
   title: "First Stars VII"
