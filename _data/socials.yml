@@ -1,0 +1,6 @@
+# Social links shown on the site, in order.
+cv_pdf: /assets/pdf/cv.pdf # path to your CV PDF (add your own file here)
+email: you@example.com # your email address
+scholar_userid: # your Google Scholar ID
+orcid_id: # your ORCID ID
+github_username: yourusername
