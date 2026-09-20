@@ -1,0 +1,17 @@
+- title: "Differentiable galaxy population modeling"
+  type: "Invited talk"
+  venue: "AAS Meeting"
+  location: "Seattle, WA"
+  date: 2024-06-01
+
+- title: "JAX-based forward modeling of galaxy photometry"
+  type: "Contributed talk"
+  venue: "Tufts Astrophysics Seminar"
+  location: "Medford, MA"
+  date: 2023-11-15
+
+- title: "diffsky: population-level galaxy modeling"
+  type: "Poster"
+  venue: "Argonne CPAC Workshop"
+  location: "Lemont, IL"
+  date: 2023-04-02
