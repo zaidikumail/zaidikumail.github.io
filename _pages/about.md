@@ -22,4 +22,4 @@ latest_posts:
   enabled: false
 ---
 
-I'm a postdoctoral researcher in observational and computational astrophysics, working on differentiable, population-level forward modeling of galaxy photometry using JAX-based frameworks (diffsky, diffhtwo, diffmah, diffstar).
+I'm a postdoctoral researcher in observational and computational astrophysics, studying the galaxy-halo connection. I do so by forward modeling the galaxy observables like photometry from large multi-wavelength surveys using a novel and fully differentiable model called diffsky.
