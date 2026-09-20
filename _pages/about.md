@@ -9,7 +9,7 @@ profile:
   image: kumail_linkedIn.png
   image_circular: false
   more_info: >
-    <p>PhD Defense Day</p>
+    <p>Astrophysics PhD</p>
     <p>Tufts University</p>
 
 selected_papers: true
